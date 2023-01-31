@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @RAFINHAG
-- 👀 I’m interested in BE A Frontend Developer
+- I’m A Frontend Developer 
+- I'm learning HTML,CSS and Javascript for now 
+- i,m interesting be a fullstack developer
+- 
+- 
 
 
 <!---
