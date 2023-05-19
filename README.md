@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @RAFINHAG
-- I’m A Frontend Developer 
-- I'm learning HTML,CSS and Javascript for now 
-- i,m interesting be a fullstack developer
-- 
-- 
+- 👋 Hi, I’m Rafael Ernesto Gonzalez Castillo
+- I’m A Frontend Developer and Data Analyst
+- I'm learning HTML,CSS and Javascript 
+- I'm learnig data base SQL and Oracle
+- I'm a junior Developer and Data Analyst
 
 
 <!---
